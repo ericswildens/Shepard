@@ -2,6 +2,9 @@ command_sets:
   billing:
     sourcePath: https://raw.githubusercontent.com/ericswildens/billing/master/commands.yaml
     description: commands to show cloud service bills
+  route53:
+    sourcePath: https://raw.githubusercontent.com/ericswildens/route53/master/commands.yaml
+    description: Commands to interact with Amaazon AWS Route53 DNS
   echo:
     sourcePath: https://raw.githubusercontent.com/ericswildens/echo/master/commands.yaml
     description: simple echo test
