@@ -5,6 +5,9 @@ command_sets:
   route53:
     sourcePath: https://raw.githubusercontent.com/ericswildens/route53/master/commands.yaml
     description: Commands to interact with Amaazon AWS Route53 DNS
+  npm_example:
+    sourcePath: https://raw.githubusercontent.com/ericswildens/npm_example/master/commands.yaml
+    description: Example that installs a package and that lists installed packages
   echo:
     sourcePath: https://raw.githubusercontent.com/ericswildens/echo/master/commands.yaml
     description: simple echo test
